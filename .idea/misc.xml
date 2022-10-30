@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable-v21/ic_menu_camera.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable-v21/ic_menu_gallery.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable-v21/ic_menu_manage.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable-v21/ic_menu_send.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable-v21/ic_menu_share.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable-v24/bg_round.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable-v24/border_edittext.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/aa.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/addd.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/btn_bg.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/btstyle.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/change.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/edittextstyle.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/et_bg.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/grad_bg.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/ic_add24dp.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/ic_menu_manage.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/ic_menu_send.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/ic_menu_share.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/ifo.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/out.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/side_nav_bar.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/drawable/them.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_forgot_password.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_hoa_don_chi_tiet.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_hoa_don_detail.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_list_ban_chay.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_list_hoa_don.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_list_sach.xml" value="0.20260416666666667" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_list_the_loai.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_list_thong_ke.xml" value="0.20260416666666667" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_loading_screen.xml" value="0.20260416666666667" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_login_screen.xml" value="0.20260416666666667" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_sach_detail.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_sign_up_screen.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_the_loai.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_the_loai_detail.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_them_hoa_don.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/activity_them_sach.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/item_hoadon.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/item_hoadonchitiet.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/item_nguoidung.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/item_sach.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/layout/item_theloai.xml" value="0.28532608695652173" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/menu/menu_context.xml" value="0.3625" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/menu/menu_sach.xml" value="0.20364583333333333" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/menu/menu_theloai.xml" value="0.20364583333333333" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/menu/menu_user.xml" value="0.20364583333333333" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21979166666666666" />
+        <entry key="..\:/Study/ANDROID/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21979166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
